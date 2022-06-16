@@ -1,3 +1,9 @@
+![Screenshot 2022-06-16 at 21 46 27](https://user-images.githubusercontent.com/85137930/174160823-8e534fc8-f5b8-4d4f-91f9-0870d64b5fb3.png)
+
+
+
+
+
 # Weather
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
